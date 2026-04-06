@@ -29,8 +29,8 @@ Actualmente enfocado en dominar el ecosistema **Linux** (específicamente **Arch
 ---
 
 ### 📊 Estadísticas de GitHub
-![Estadísticas de jdatainsights-spec](https://github-readme-stats.vercel.app/api?username=jdatainsights-spec&show_icons=true&theme=tokyonight&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jdatainsights-spec&layout=compact&theme=tokyonight&hide_border=true)
+![Estadísticas de Javier](https://github-readme-stats-eight-theta.vercel.app/api?username=jdatainsights-spec&show_icons=true&theme=tokyonight&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jdatainsights-spec&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
