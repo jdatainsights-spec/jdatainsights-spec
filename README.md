@@ -1,6 +1,6 @@
 # ¡Hola! Soy Javier Sosa 👋
 
-### 🚀 Entusiasta de la Tecnología | Aprendiz de Data Analysis & Ciberseguridad
+### 🚀 Data Analyst en formación con enfoque en procesos ETL y optimización de sistemas (Arch Linux enthusiast).
 
 Actualmente enfocado en dominar el ecosistema **Linux** (específicamente **Arch Linux** 🐧) y profundizar en el análisis de datos para extraer insights de valor. Me apasiona entender el "cómo" de las cosas, desde la arquitectura de un script hasta la optimización de hardware.
 
