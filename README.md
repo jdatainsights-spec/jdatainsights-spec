@@ -30,8 +30,7 @@ Actualmente enfocado en dominar el ecosistema **Linux** (específicamente **Arch
 ---
 
 ### 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jdatainsights-spec&show_icons=true&theme=tokyonight&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jdatainsights-spec&layout=compact&theme=tokyonight&hide_border=true)
+![Racha de Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=jdatainsights-spec&theme=tokyonight&hide_border=true)
 
 ---
 
