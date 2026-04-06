@@ -8,29 +8,29 @@ Actualmente enfocado en dominar el ecosistema **Linux** (específicamente **Arch
 
 ### 🛠️ Mi Stack Tecnológico
 
-* **Lenguajes:** Python
-* **Herramientas de Datos:** Excel (Power Query/Dashboards), Power BI, y VS Code
-* **Sistemas:** Arch Linux, Windows Optimization (G-Helper, Debloating)
-* **Próximamente:** Pentesting & Seguridad Ofensiva 🛡️
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge&logo=microsoft-power-automate&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ---
 
 ### 📂 Proyectos Destacados
 
-#### 📊 titanic-survival-privileges
-*Descripción: Análisis descriptivo sobre cómo la clase social y el género determinaron las probabilidades de supervivencia en el desastre del Titanic.*
-* **Key Feature:** Proceso ETL completo con Power Query para la limpieza de datos y creación de un Dashboard interactivo en Excel que visualiza la jerarquía de supervivencia.
-* [Ver Repositorio](https://github.com/jdatainsights-spec/titanic-survival-privileges)
+#### 📊 [Privilege and Survival: Titanic Analysis](https://github.com/jdatainsights-spec/titanic-survival-privileges)
+* **Descripción:** Análisis descriptivo sobre cómo la clase social y el género determinaron las probabilidades de supervivencia en el desastre del Titanic.
+* **Key Feature:** Proceso ETL completo con **Power Query** para la limpieza de datos y creación de un Dashboard interactivo en **Excel**.
 
-#### ⚙️ ai-job-market-analysis
-*Descripción: Estudio del impacto de la Inteligencia Artificial en el mercado laboral global, analizando riesgos de automatización y oportunidades de crecimiento por industria.*
-* **Key Feature:** Implementación de un Dashboard avanzado en Excel con mapas de calor y segmentadores dinámicos para identificar tendencias de estabilidad y declive laboral.
-* [Ver Repositorio](https://github.com/jdatainsights-spec/ai-job-market-analysis)
+#### 🤖 [AI Job Market Insights](https://github.com/jdatainsights-spec/ai-job-market-analysis)
+* **Descripción:** Estudio del impacto de la Inteligencia Artificial en el mercado laboral global, analizando riesgos de automatización y oportunidades de crecimiento.
+* **Key Feature:** Implementación de un **Dashboard avanzado** con mapas de calor y segmentadores dinámicos para identificar tendencias de estabilidad laboral.
 
 ---
 
 ### 📊 Estadísticas de GitHub
-![Racha de Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=jdatainsights-spec&theme=tokyonight&hide_border=true)
+![Estadísticas de jdatainsights-spec](https://github-readme-stats.vercel.app/api?username=jdatainsights-spec&show_icons=true&theme=tokyonight&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jdatainsights-spec&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
